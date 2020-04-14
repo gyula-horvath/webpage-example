@@ -1,0 +1,38 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar {
+    margin-top: 0px;
+}
+
+.navbar-inverse .brand {
+    color: #FFF;
+}
+
+.gallery-wrapper {
+    text-align: center;
+}
+
+.gallery-wrapper li {
+    display: inline-block;
+    float: none;
+}
+
+.pagination {
+    margin: 0;
+}
+
+.credit {
+    margin: 9px 0;
+    text-align: center;
+}
+
+.row {
+    margin: 0;
+}
+
+#gallery-nav {
+    margin:0;
+}

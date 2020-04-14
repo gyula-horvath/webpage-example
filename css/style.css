@@ -1,0 +1,172 @@
+/*# Empty CSS file for your own CSS*/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+}
+.main{
+  min-height: 80vh;;
+}
+
+footer{
+  min-height: 20vh;
+}
+
+#gallery-container {
+  margin-bottom: 20vh;
+}
+
+.row, .col-md-12, .col-12 {
+  max-width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url('https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12193133/German-Shepherd-Puppy-Fetch.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.page-title {
+  color: black;
+}
+
+#gallery_h1 {
+  background-color: rgba(0,0,0,.8);
+  color: ivory;
+}
+
+#galleryNav{
+  background-color:  rgba(10, 10, 10, .8);
+}
+
+#index_nav, #index_h1{
+  background-color: rgba(10, 10, 10, .5);
+  width: 100%;
+}
+
+.navbar-light .navbar-brand,
+.navbar-light .navbar-brand:hover {
+  color: gold;
+}
+
+.navbar-light .navbar-nav .nav-link{
+  color: ivory;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: gold;
+}
+
+
+.contact-type > .contacts-link,
+.contact-type > .contacts-link:hover {
+  color: dimgray;
+  text-decoration: none;
+}
+
+footer {
+  background-color:  rgba(10, 10, 10, .9);
+}
+
+.footer-link a,
+.footer-link, 
+.footer-copyright span {
+  color:white;
+  margin:0;
+}
+
+h1 {
+  padding: 3%;
+  color: ivory;
+}
+
+#about,
+#groups,
+#gallery,
+#news {
+  padding-top: 5%;
+}
+
+.carousel-inner > .active > .thumbnail > img {
+  max-width: 100vw;
+  overflow: hidden;
+}
+
+.carousel-inner > .carousel-item > .thumbnail {
+  padding: 0;
+  margin-right: 0%;
+}
+
+.carousel-inner {
+  height: 70vh;
+  max-width: 100vw;
+}
+
+.carousel-control-next-icon::before
+{
+  content: '>';
+  font-size: 55px;
+  color: rgba(10, 10, 10, .9);
+  padding: 0;
+  margin: 0;
+}
+
+.carousel-control-prev-icon:before {
+  content: '<';
+  font-size: 55px;
+  color:  rgba(10, 10, 10, .9);
+  padding: 0;
+  margin: 0;
+}
+
+table{
+  padding: 0;
+  margin: 0;
+}
+
+.post > p{
+  margin-right: 0;
+  text-align: justify;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 70px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+/* Instagram */
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
