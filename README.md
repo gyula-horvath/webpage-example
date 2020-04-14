@@ -1,3 +1,9 @@
+**About this project:**
+========================
+
+A webpage project using PHP, HTML, and CSS, with some Javascript. You can register a user/admin, upload 
+photos, and post notifications/news. The gallery for this page was made using UberGallery.
+
 UberGallery - The simple PHP photo gallery
 ==========================================
 Created by, [Chris Kankiewicz](http://www.ChrisKankiewicz.com)
