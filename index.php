@@ -4,7 +4,7 @@
     $posts = getPublishedPosts(); 
     require_once( ROOT_PATH . '/includes/head_section.php');
     ?>
-    <title>AkroArt</title>
+    <title>Cím</title>
 </head>
 
 <body>
